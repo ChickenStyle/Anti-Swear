@@ -1,0 +1,8 @@
+name: Anti-Swear
+main: com.chickenstyle.antiswear.Main
+description: Remove Junk Words from the chat)
+version: 1.0
+commands:
+  antiswear:
+    aliases: [as]
+    description: AntiSwear Command

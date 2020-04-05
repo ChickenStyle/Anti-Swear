@@ -1,0 +1,15 @@
+message: "&c&lWarning &8» &fPlease refrain from using curse words in public-chat. You can be punished for it."
+titlemessage: "&c&lDo not swear in the chat!"
+subtitle: "&c&lYou can be punished for it."
+type: "both"
+messageduraion: 1.5
+sound: "ANVIL_BREAK"
+maxamountswears: 3
+timeframe: 600
+kickmessage: "Excessive profanity"
+kickcommands:
+- 'kick %player% Stop swearing in the chat!'
+swearwords: 
+- fuck
+- nigga
+- bitch
